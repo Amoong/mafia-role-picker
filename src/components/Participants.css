@@ -1,0 +1,8 @@
+.participant-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.participant-item {
+  padding: 3px;
+}
